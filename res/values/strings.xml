@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">midtermPractice</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="orginaltext">Original Text</string>
+    <string name="seekbar4">Rotation Value</string>
+    <string name="rottext">4</string>
+
+</resources>

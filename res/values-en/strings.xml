@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="texthere">Enter Text Here</string>
+    <string name="seekbar">Rotation Value</string>
+    <string name="seekbar1">Rotation Value</string>
+    <string name="seekbar2">test</string>
+</resources>
