@@ -13,12 +13,13 @@ public class MainActivity extends ActionBarActivity {
 
 	private EditText inputEditText;
 	private TextView rotTextView;
-	private SeekBar rotseekBar;
+	private SeekBar rotSeekBar;
 	private EditText outputEditText;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        rotTextView =(TextView) findViewById(R.id.rotSeekBar);
     }
 
 
@@ -40,4 +41,5 @@ public class MainActivity extends ActionBarActivity {
         }
         return super.onOptionsItemSelected(item);
     }
+    
 }
